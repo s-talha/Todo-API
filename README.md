@@ -9,7 +9,7 @@ Todo API contains following features:
 - Retrieve all events associated with a list of todos
 - The API should not loose any data if restarted
 
-#Tech stack
+# Tech stack
 - Node.js
 - Express
 - Docker
